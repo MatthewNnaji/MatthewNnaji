@@ -9,7 +9,7 @@
 
 
 ### 🛠️ What I Use to Code
-  　 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=mysql&logoColor=white)
+  　 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/) [![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 - ⛺ Through LinkedIn Learning + FreeCodeCamp courses, developing coding skills to intermediate level
 - 💻 Applying these languages and libraries to full use in future projects, to build financial models and automate data workflows
 
