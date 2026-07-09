@@ -1,6 +1,7 @@
 # Hi there 👋
 ### Studying economics, using python and excel to pursue careers in risk and finance sectors
-
+- proficient in excel
+- developing python and SQL
 <!--
 **MatthewNnaji/MatthewNnaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
