@@ -1,7 +1,11 @@
 # Hi there 👋
-### Studying economics, using python and excel to pursue careers in risk and finance sectors
-- proficient in excel
-- developing python and SQL
+## Studying economics, using python and excel to pursue careers in risk and finance sectors
+### proficient in excel, developing python and SQL
+
+- 🔭 I’m currently working on beginner github and python projects, related to valuations
+- 👯 I’m looking to collaborate on any finance-related projects
+- 🤔 I’m looking for help/tips with anything GitHub related! feel free to reach out
+- 📫 How to reach me | LinkedIn: https://linkedin.com/in/matthewnnaji | Email: onnaji1898@gmail.com
 <!--
 **MatthewNnaji/MatthewNnaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
