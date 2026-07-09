@@ -1,10 +1,10 @@
-# Hi there 👋
+# Hi there, welcome to my page! 👋
 ## Studying Economics, using Python and Excel to pursue careers in Risk & Finance sectors
 ### Proficient in Excel | Intermediate Python and SQL
-- 🔭 I’m currently working on beginner github and python projects, related to valuations
-- 👯 I’m looking to collaborate on any finance-related projects
-- 🤔 I’m looking for help/tips with anything GitHub related! feel free to reach out
-- 📫 How to reach me | LinkedIn: https://linkedin.com/in/matthewnnaji | Email: onnaji1898@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MatthewNnaji) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/MatthewNnaji) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:onnaji1898@gmail.com)
+- 🔭 I’m currently working on beginner Github and Python projects, related to valuations
+- 👯 I’m looking to collaborate on any Finance-related projects
+- 🤔 I’m looking for help/tips with anything GitHub! feel free to reach out :)
 <!--
 **MatthewNnaji/MatthewNnaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
