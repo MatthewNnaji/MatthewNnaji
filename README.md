@@ -1,6 +1,6 @@
 # Hi there 👋
 ## Studying Economics, using Python and Excel to pursue careers in Risk & Finance sectors
-### Proficient in Excel | Intermediate Python & SQL
+### Proficient in Excel | Intermediate Python and SQL
 - 🔭 I’m currently working on beginner github and python projects, related to valuations
 - 👯 I’m looking to collaborate on any finance-related projects
 - 🤔 I’m looking for help/tips with anything GitHub related! feel free to reach out
